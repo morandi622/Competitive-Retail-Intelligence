@@ -9,7 +9,7 @@ price is equal to a base price for the product/UPC multiplied by a store-specifi
 This can be represented as
 P<sub>i</sub><sub>j</sub><sub>k</sub> = P<sub>i</sub> A<sub>j</sub> B<sub>k</sub> for observed price P for product i in store j and region k. A and B are multiplicative factors of the order of the unity.
  
-Collected prices are provided in a â€œprices.csvâ€ file, which describes prices collected for products, represented as UPC, at a specific
+Collected prices are provided in a 'prices.csv' file, which describes prices collected for products, represented as UPC, at a specific
 physical store locations, represented as Store ID. It is also included a json file for the 'Banner' and 'Region' fields corresponding to a certain 'Store ID'.
 
 The code is written in python. There is 1 routine:
