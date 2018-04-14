@@ -1,0 +1,142 @@
+[
+    {
+        "Store ID": 66999, 
+        "Banner": "Walmart", 
+        "Region": "Northern California"
+    }, 
+    {
+        "Store ID": 4698, 
+        "Banner": "Trader Joes", 
+        "Region": "Northern California"
+    }, 
+    {
+        "Store ID": 39482, 
+        "Banner": "Safeway", 
+        "Region": "Northern California"
+    }, 
+    {
+        "Store ID": 34957, 
+        "Banner": "Whole Foods", 
+        "Region": "Northern California"
+    }, 
+    {
+        "Store ID": 12837, 
+        "Banner": "Walmart", 
+        "Region": "New York"
+    }, 
+    {
+        "Store ID": 9487, 
+        "Banner": "Trader Joes", 
+        "Region": "New York"
+    }, 
+    {
+        "Store ID": 2938, 
+        "Banner": "Wegmans", 
+        "Region": "New York"
+    }, 
+    {
+        "Store ID": 50948, 
+        "Banner": "Whole Foods", 
+        "Region": "New York"
+    }, 
+    {
+        "Store ID": 40593, 
+        "Banner": "Walmart", 
+        "Region": "Kansas"
+    }, 
+    {
+        "Store ID": 29384, 
+        "Banner": "Trader Joes", 
+        "Region": "Kansas"
+    }, 
+    {
+        "Store ID": 3948, 
+        "Banner": "Wegmans", 
+        "Region": "Kansas"
+    }, 
+    {
+        "Store ID": 39485, 
+        "Banner": "Safeway", 
+        "Region": "Kansas"
+    }, 
+    {
+        "Store ID": 39287, 
+        "Banner": "Whole Foods", 
+        "Region": "Kansas"
+    }, 
+    {
+        "Store ID": 50495, 
+        "Banner": "Walmart", 
+        "Region": "Texas"
+    }, 
+    {
+        "Store ID": 40586, 
+        "Banner": "Trader Joes", 
+        "Region": "Texas"
+    }, 
+    {
+        "Store ID": 98638, 
+        "Banner": "Wegmans", 
+        "Region": "Texas"
+    }, 
+    {
+        "Store ID": 29382, 
+        "Banner": "Safeway", 
+        "Region": "Texas"
+    }, 
+    {
+        "Store ID": 98736, 
+        "Banner": "Whole Foods", 
+        "Region": "Texas"
+    }, 
+    {
+        "Store ID": 6746, 
+        "Banner": "Kroger", 
+        "Region": "Northern California"
+    }, 
+    {
+        "Store ID": 77955, 
+        "Banner": "Kroger", 
+        "Region": "New York"
+    }, 
+    {
+        "Store ID": 66356, 
+        "Banner": "Kroger", 
+        "Region": "Texas"
+    }, 
+    {
+        "Store ID": 99997, 
+        "Banner": "Kroger", 
+        "Region": "Kansas"
+    }, 
+    {
+        "Store ID": 29342, 
+        "Banner": "Walmart", 
+        "Region": "Hawaii"
+    }, 
+    {
+        "Store ID": 11123, 
+        "Banner": "Trader Joes", 
+        "Region": "Hawaii"
+    }, 
+    {
+        "Store ID": 39284, 
+        "Banner": "Wegmans", 
+        "Region": "Hawaii"
+    }, 
+    {
+        "Store ID": 40582, 
+        "Banner": "Safeway", 
+        "Region": "Hawaii"
+    }, 
+    {
+        "Store ID": 59582, 
+        "Banner": "Whole Foods", 
+        "Region": "Hawaii"
+    }, 
+    {
+        "Store ID": 50692, 
+        "Banner": "Kroger", 
+        "Region": "Hawaii"
+    }
+]
